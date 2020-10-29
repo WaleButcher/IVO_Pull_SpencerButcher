@@ -22,7 +22,7 @@
 <br />
 <p align="center">
   <a>
-    <img src="images/ivoappsample.png" alt="Logo" width="80" height="80">
+    <img src="images/ivoappsample.png" alt="Logo" height="80">
   </a>
 
   <h3 align="center">IVO Pull</h3>
